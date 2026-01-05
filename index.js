@@ -387,7 +387,7 @@ function parseYamlToBlocks(text) {
     try {
         const cleanText = text.replace(/^```[a-z]*\n?/im, '').replace(/```$/im, '').trim();
         let lines = cleanText.split('\n');
-        const topLevelKeyRegex = /^\s*([^:\s\-]+?)\s*[:：]/;
+        const topLevelKeyRegex = /^\s*([^:：\n]+?)\s*[:：]/;
         let topKeysIndices = [];
         for (let i = 0; i < lines.length; i++) {
             const line = lines[i];
@@ -2934,3 +2934,4 @@ jQuery(async () => {
     console.log("[PW] Persona Weaver Loaded (v2.7.2 - Hotfix)");
 
 });
+
