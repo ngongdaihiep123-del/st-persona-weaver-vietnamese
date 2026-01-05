@@ -4,6 +4,10 @@
 
 Một tiện ích mở rộng (extension) tự nhiên dành cho SillyTavern. Được thiết kế để sử dụng AI nhằm tạo, nhuận sắc chuyên sâu và quản lý Hồ sơ người dùng (User Persona) của bạn, hỗ trợ chỉnh sửa so sánh thông minh và tự động liên kết với World Info (Sách thế giới).
 
+> **🔗 Link hữu ích:**
+> * **Kho lưu trữ gốc (Original Repo):** [GitHub](https://github.com/sisisisilviaxie-star/st-persona-weaver)
+> * **Discord thảo luận (Tác giả gốc):** [Tham gia tại đây](https://discord.com/channels/1291925535324110879/1452687095440343184)
+
 ## ✨ Tính năng cốt lõi
 
 * **Tạo thông minh bằng AI**: Tự động tạo hồ sơ User có cấu trúc, chất lượng cao (định dạng YAML) dựa trên mô tả ngôn ngữ tự nhiên đơn giản hoặc các mẫu có sẵn.
