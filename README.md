@@ -20,7 +20,7 @@ Một tiện ích mở rộng (extension) tự nhiên dành cho SillyTavern. Đ�
 1.  **Yêu cầu trước**: Khuyên dùng cài đặt và kích hoạt plugin [TavernHelper (JS-Slash-Runner)](https://github.com/n0vi028/JS-Slash-Runner) để có trải nghiệm thao tác World Info tốt nhất (không bắt buộc, nhưng khuyến nghị).
 2.  Mở trang **Extensions (Tiện ích mở rộng)** trong SillyTavern.
 3.  Nhấn vào **Install Extension**.
-4.  Dán địa chỉ kho lưu trữ này vào ô URL: `[Dán Link GitHub của bạn vào đây]`
+4.  Dán địa chỉ kho lưu trữ này vào ô URL: `https://github.com/ngongdaihiep123-del/st-persona-weaver-vietnamese`
 5.  Nhấn **Save** (Lưu) và tải lại trang.
 
 ## 📖 Hướng dẫn sử dụng nhanh
@@ -53,7 +53,7 @@ Một tiện ích mở rộng (extension) tự nhiên dành cho SillyTavern. Đ�
 1.  **Prerequisite**: [TavernHelper (JS-Slash-Runner)](https://github.com/n0vi028/JS-Slash-Runner) is recommended for full World Info features.
 2.  Open **Extensions** in SillyTavern.
 3.  Click **Install Extension**.
-4.  Paste the repo URL: `[Paste your GitHub URL here]`
+4.  Paste the repo URL: `https://github.com/ngongdaihiep123-del/st-persona-weaver-vietnamese`
 5.  Click **Save** and reload.
 
 ## 📄 License
