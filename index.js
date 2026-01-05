@@ -30,10 +30,10 @@ const defaultYamlTemplate =
   Thân phận:
 
 Tiểu sử:
-  Tuổi thơ_0_12_tuổi: 
-  Thiếu niên_13_18_tuổi: 
-  Thanh niên_19_35_tuổi: 
-  Trung niên_35_tuổi_trở_lên: 
+  Tuổi thơ 0 đến 12 tuổi: 
+  Thiếu niên 13 đến 18 tuổi: 
+  Thanh niên 19 đến 35 tuổi: 
+  Trung niên 35 tuổi trở lên: 
   Hiện trạng: 
 
 Gia đình:
@@ -2932,4 +2932,5 @@ jQuery(async () => {
     bindEvents(); 
     loadThemeCSS('style.css'); // Default theme
     console.log("[PW] Persona Weaver Loaded (v2.7.2 - Hotfix)");
+
 });
